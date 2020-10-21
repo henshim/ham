@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0ffefae-a159-485d-b09a-7fa7b0cabd2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../b-đk-tt/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b-đk-tt/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bàn phím/sk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bóng/chuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bảng cửu chương/bang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co caro/carosimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cân nặng/tinhcn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cđ tien te/chuyen-doi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../do you love me/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dung ham cho mang/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dung ham cho mang/b2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dung ham cho mang/b3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fake text/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fake text/fake-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group/group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if-else/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap long/bang1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap long/bang2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/if-else-if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap dk2/bt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyen tap đk1/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyện tập vg lặp1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyện tập vg lặp1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyện tập vg lặp1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m-tim-ln/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m-tim-ln/moi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m-tìm-gt/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mt mới/mt-dg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../máy tính/co-ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngay-thang/tinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reverse/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../switch/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../switch/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../switch/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../switch/sign2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tinh-nam-nhuan/nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toan tu 3n/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toan tu 3n/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toan tu/nhung.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toan tu/thc-hanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tu dien/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tu dien/thu-vien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ảnh/chuyen anh.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jB7iY6O9NL8Ao9cus4aJ8HMEJi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ffefae-a159-485d-b09a-7fa7b0cabd2f" name="Default Changelist" comment="" />
+      <created>1603265758538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603265758538</updated>
+      <workItem from="1603265759598" duration="1719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
